@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2019_SemesterB_MoedA/2019_SemesterB_MoedA.iml" filepath="$PROJECT_DIR$/2019_SemesterB_MoedA/2019_SemesterB_MoedA.iml" />
       <module fileurl="file://$PROJECT_DIR$/2019_SemesterB_MoedB/2019_SemesterB_MoedB.iml" filepath="$PROJECT_DIR$/2019_SemesterB_MoedB/2019_SemesterB_MoedB.iml" />
       <module fileurl="file://$PROJECT_DIR$/2020_SemesterA_MoedA1/2020_SemesterA_MoedA1.iml" filepath="$PROJECT_DIR$/2020_SemesterA_MoedA1/2020_SemesterA_MoedA1.iml" />
       <module fileurl="file://$PROJECT_DIR$/2020_SemesterA_MoedA2/2020_SemesterA_MoedA2.iml" filepath="$PROJECT_DIR$/2020_SemesterA_MoedA2/2020_SemesterA_MoedA2.iml" />
